@@ -75,10 +75,10 @@
 		96D6EB292DD30765000A9D65 = {
 			isa = PBXGroup;
 			children = (
-				96D6EB342DD30765000A9D65 /* Unlmtd */,
 				96D6EB422DD30766000A9D65 /* UnlmtdTests */,
 				96D6EB4C2DD30766000A9D65 /* UnlmtdUITests */,
 				96D6EB332DD30765000A9D65 /* Products */,
+				96D6EB342DD30765000A9D65 /* Unlmtd */,
 			);
 			sourceTree = "<group>";
 		};
